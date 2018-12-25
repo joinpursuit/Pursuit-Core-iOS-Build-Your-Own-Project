@@ -53,7 +53,7 @@ Own and build your own iOS app.
 [Alyson]()  
 [Antonio]()  
 [Ashli]()  
-[Biron]()  
+[Biron](https://github.com/BironSu/PokeDex)  
 [Diego]()  
 [Elizabeth]()  
 [Genesis]()  
