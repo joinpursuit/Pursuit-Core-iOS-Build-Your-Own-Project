@@ -69,7 +69,7 @@ Own and build your own iOS app.
 [Joshua]()  
 [Kathy]()  
 [Kevin]()  
-[Leandro]()  
+[Leandro](https://github.com/leandrowauters/UFC-Project)  
 [Manolova]()  
 [Matthew]()  
 [Nathalie]()  
