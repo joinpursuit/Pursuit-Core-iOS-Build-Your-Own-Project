@@ -60,7 +60,7 @@ Own and build your own iOS app.
 [Ian]()  
 [Ibraheem]()  
 [Jabeen]()  
-[Jane]()  
+[Jane](https://github.com/janezhu1618/NYCPublicLibraryApp)  
 [Jason]()  
 [Jeffrey]()  
 [Jevon]()  
