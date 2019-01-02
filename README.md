@@ -71,7 +71,7 @@ Own and build your own iOS app.
 [Kevin]()  
 [Leandro]()  
 [Manolova]()  
-[Matthew]()  
+[Matthew](https://github.com/MattHuie/PokemonTCGApp)  
 [Nathalie]()  
 [Olimpia]()  
 [Oniel]()  
