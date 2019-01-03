@@ -65,7 +65,7 @@ Own and build your own iOS app.
 [Jeffrey]()  
 [Jevon]()  
 [Jian]()  
-[Jose]()  
+[Jose](https://github.com/josealarconchacon/Pursuit-December-Project)  
 [Joshua]()  
 [Kathy]()  
 [Kevin]()  
