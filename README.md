@@ -52,7 +52,7 @@ Own and build your own iOS app.
 [Alfredo]()  
 [Alyson]()  
 [Antonio]()  
-[Ashli]()  
+[Ashli](https://github.com/Ashlirankin18/SocialApp.git)  
 [Biron]()  
 [Diego]()  
 [Elizabeth]()  
