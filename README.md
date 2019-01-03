@@ -64,7 +64,7 @@ Own and build your own iOS app.
 [Jason]()  
 [Jeffrey]()  
 [Jevon]()  
-[Jian]()  
+[Jian](https://github.com/JianTing-Li/CatLover)  
 [Jose]()  
 [Joshua]()  
 [Kathy]()  
