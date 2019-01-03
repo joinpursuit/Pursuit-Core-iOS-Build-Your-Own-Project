@@ -18,9 +18,6 @@ class ViewController: UIViewController {
             }
         }
     }
-    
-
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
@@ -29,7 +26,6 @@ class ViewController: UIViewController {
         searchBar.autocapitalizationType = .none
         fetchIds()
     }
-    
     private func fetchIds() {
         MuseumAPIClient.getObjectIds { (appError, objectIds) in
             if let appError = appError {
@@ -39,37 +35,13 @@ class ViewController: UIViewController {
             }
         }
     }
-    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         guard let indexPath = tableView.indexPathForSelectedRow,
             let detailViewController = segue.destination as? DetailViewController else { fatalError("indexPath, detailViewController nil")}
         let objectId = objectIDs[indexPath.row]
         detailViewController.objectId = objectId
     }
-//    func loadData() {
-//        let myUrl = URL(string: "https://collectionapi.metmuseum.org/public/collection/v1/objects")!
-//        if let data = try? Data.init(contentsOf: myUrl) {
-//            do {
-//                let objectID = try JSONDecoder().decode(ObjectIDs.self, from: data)
-//
-//            } catch {
-//                print(error)
-//            }
-//        }
-//
-//
-//    }
-//    private func searchEvents(keyword: String) {
-//        MuseumAPIClient.searchEvents(keyword: keyword) { (error, objects) in
-//            if let error = error {
-//                print("hello \(error.errorMessage())")
-//            } else if let objects = objects {
-//                self.objects = objects
-//            }
-//        }
-//    }
 }
-
 extension ViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return objectIDs.count
@@ -84,7 +56,6 @@ extension ViewController: UITableViewDataSource {
         return cell
     }
 }
-
 extension ViewController: UISearchBarDelegate {
 //    func searchBarSearchButtonClicked(_ searchBar: UISearchBar) {
 //        searchBar.resignFirstResponder() // dismiss the keyboard
@@ -95,5 +66,8 @@ extension ViewController: UISearchBarDelegate {
 //        }
 //        searchEvents(keyword: searchTextEncoded)
 //    }
+    //POST https://5c2d2438b8051f0014cd475a.mockapi.io/api/v1/favorites
+    
+    //GET https://5c2d2438b8051f0014cd475a.mockapi.io/api/v1/favorites
 }
 

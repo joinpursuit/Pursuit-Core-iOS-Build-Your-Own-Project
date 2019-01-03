@@ -22,7 +22,6 @@ class DetailViewController: UIViewController {
         updateObject()
     }
     private func updateObject() {
-        
         MuseumAPIClient.searchEvents(keyword: objectId) { (appError, object) in
             if let appError = appError {
                 print(appError.errorMessage())
@@ -38,12 +37,8 @@ class DetailViewController: UIViewController {
                             self.imageView.image = image
                         }
                     }
-
                 }
-                
             }
         }
-
     }
-
 }

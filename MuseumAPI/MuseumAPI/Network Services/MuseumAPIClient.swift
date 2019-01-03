@@ -18,7 +18,6 @@ final class MuseumAPIClient {
             } else if let data = data {
                 do {
                     let objectData = try JSONDecoder().decode(ObjectData.self, from: data)
-                    // closure captures value from network response
                     completionHandler(nil, objectData)
                 } catch {
                     completionHandler(AppError.decodingError(error), nil)
@@ -35,7 +34,6 @@ final class MuseumAPIClient {
             } else if let data = data {
                 do {
                     let objectData = try JSONDecoder().decode(ObjectIDs.self, from: data)
-                    // closure captures value from network response
                     completionHandler(nil, objectData.objectIDs)
                 } catch {
                     completionHandler(AppError.decodingError(error), nil)
@@ -43,6 +41,4 @@ final class MuseumAPIClient {
             }
         }
     }
-    
-    
 }
