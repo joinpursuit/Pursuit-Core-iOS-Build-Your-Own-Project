@@ -74,7 +74,7 @@ Own and build your own iOS app.
 [Matthew]()  
 [Nathalie]()  
 [Olimpia]()  
-[Oniel]()  
+[Oniel](https://github.com/onielrosario/APIClientAssignment)  
 [Pritesh]()  
 [Ramu]()  
 [Raymond]()  
