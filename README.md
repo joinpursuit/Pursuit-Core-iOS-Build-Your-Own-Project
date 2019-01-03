@@ -49,7 +49,7 @@ Own and build your own iOS app.
   <summary>Fellow Submission List</summary> 
   
 [Aaron]()  
-[Alfredo]()  
+[Alfredo](https://github.com/AlfredoB212/Unit3-Assignment-2.git)  
 [Alyson]()  
 [Antonio]()  
 [Ashli]()  
