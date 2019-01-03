@@ -75,7 +75,7 @@ Own and build your own iOS app.
 [Nathalie]()  
 [Olimpia]()  
 [Oniel]()  
-[Pritesh]()  
+[Pritesh](https://github.com/PNadiadhara/DnDSpellTomb)  
 [Ramu]()  
 [Raymond]()  
 [Stephanie]()  
