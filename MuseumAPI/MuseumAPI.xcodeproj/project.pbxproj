@@ -12,6 +12,13 @@
 		9784C66721D6DE850096A995 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9784C66521D6DE850096A995 /* Main.storyboard */; };
 		9784C66921D6DE870096A995 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9784C66821D6DE870096A995 /* Assets.xcassets */; };
 		9784C66C21D6DE870096A995 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9784C66A21D6DE870096A995 /* LaunchScreen.storyboard */; };
+		9784C67921D6E0330096A995 /* ObjectInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C67821D6E0330096A995 /* ObjectInfo.swift */; };
+		9784C67B21D6ECB10096A995 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C67A21D6ECB10096A995 /* DetailViewController.swift */; };
+		9784C67D21D6F4CB0096A995 /* ObjectIDs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C67C21D6F4CB0096A995 /* ObjectIDs.swift */; };
+		9784C67F21D6F5EA0096A995 /* MuseumAPIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C67E21D6F5EA0096A995 /* MuseumAPIClient.swift */; };
+		9784C68121D6F62B0096A995 /* AppError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C68021D6F62B0096A995 /* AppError.swift */; };
+		9784C68321D722710096A995 /* NetworkHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C68221D722710096A995 /* NetworkHelper.swift */; };
+		9784C6A921DD71050096A995 /* ImageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9784C6A821DD71050096A995 /* ImageHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		9784C66821D6DE870096A995 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9784C66B21D6DE870096A995 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9784C66D21D6DE870096A995 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9784C67821D6E0330096A995 /* ObjectInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectInfo.swift; sourceTree = "<group>"; };
+		9784C67A21D6ECB10096A995 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		9784C67C21D6F4CB0096A995 /* ObjectIDs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectIDs.swift; sourceTree = "<group>"; };
+		9784C67E21D6F5EA0096A995 /* MuseumAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuseumAPIClient.swift; sourceTree = "<group>"; };
+		9784C68021D6F62B0096A995 /* AppError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppError.swift; sourceTree = "<group>"; };
+		9784C68221D722710096A995 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
+		9784C6A821DD71050096A995 /* ImageHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +68,61 @@
 		9784C66021D6DE850096A995 /* MuseumAPI */ = {
 			isa = PBXGroup;
 			children = (
-				9784C66121D6DE850096A995 /* AppDelegate.swift */,
-				9784C66321D6DE850096A995 /* ViewController.swift */,
 				9784C66521D6DE850096A995 /* Main.storyboard */,
-				9784C66821D6DE870096A995 /* Assets.xcassets */,
-				9784C66A21D6DE870096A995 /* LaunchScreen.storyboard */,
+				9784C67721D6DF980096A995 /* Network Services */,
+				9784C67621D6DF950096A995 /* Models */,
+				9784C67521D6DF500096A995 /* Controllers */,
+				9784C67421D6DF4B0096A995 /* Extensions */,
+				9784C67321D6DF1B0096A995 /* Supporting Files */,
 				9784C66D21D6DE870096A995 /* Info.plist */,
 			);
 			path = MuseumAPI;
+			sourceTree = "<group>";
+		};
+		9784C67321D6DF1B0096A995 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9784C66121D6DE850096A995 /* AppDelegate.swift */,
+				9784C66821D6DE870096A995 /* Assets.xcassets */,
+				9784C66A21D6DE870096A995 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9784C67421D6DF4B0096A995 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		9784C67521D6DF500096A995 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9784C66321D6DE850096A995 /* ViewController.swift */,
+				9784C67A21D6ECB10096A995 /* DetailViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		9784C67621D6DF950096A995 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9784C67821D6E0330096A995 /* ObjectInfo.swift */,
+				9784C67C21D6F4CB0096A995 /* ObjectIDs.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9784C67721D6DF980096A995 /* Network Services */ = {
+			isa = PBXGroup;
+			children = (
+				9784C67E21D6F5EA0096A995 /* MuseumAPIClient.swift */,
+				9784C68221D722710096A995 /* NetworkHelper.swift */,
+				9784C68021D6F62B0096A995 /* AppError.swift */,
+				9784C6A821DD71050096A995 /* ImageHelper.swift */,
+			);
+			path = "Network Services";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +196,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9784C68321D722710096A995 /* NetworkHelper.swift in Sources */,
+				9784C67921D6E0330096A995 /* ObjectInfo.swift in Sources */,
+				9784C6A921DD71050096A995 /* ImageHelper.swift in Sources */,
+				9784C67F21D6F5EA0096A995 /* MuseumAPIClient.swift in Sources */,
 				9784C66421D6DE850096A995 /* ViewController.swift in Sources */,
 				9784C66221D6DE850096A995 /* AppDelegate.swift in Sources */,
+				9784C67B21D6ECB10096A995 /* DetailViewController.swift in Sources */,
+				9784C67D21D6F4CB0096A995 /* ObjectIDs.swift in Sources */,
+				9784C68121D6F62B0096A995 /* AppError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
