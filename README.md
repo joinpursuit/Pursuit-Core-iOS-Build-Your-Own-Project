@@ -77,7 +77,7 @@ Own and build your own iOS app.
 [Oniel]()  
 [Pritesh]()  
 [Ramu]()  
-[Raymond]()  
+[Raymond](https://github.com/Donkemezuo/LiveSoccerUpdateApp)  
 [Stephanie]()  
 [Tingxin]()  
 [Yaz]()  
