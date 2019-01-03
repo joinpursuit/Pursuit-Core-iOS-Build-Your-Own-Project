@@ -54,7 +54,7 @@ Own and build your own iOS app.
 [Antonio]()  
 [Ashli]()  
 [Biron]()  
-[Diego]()  
+[Diego](https://github.com/Destrella3/Pursuit-Core-iOS-Unit3-Holiday-Assignment)  
 [Elizabeth]()  
 [Genesis]()  
 [Ian]()  
