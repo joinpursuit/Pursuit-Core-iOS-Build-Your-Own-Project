@@ -48,13 +48,13 @@ Own and build your own iOS app.
 <details> 
   <summary>Fellow Submission List</summary> 
   
-[Aaron]()  
+[Aaron](https://github.com/AaronCab/API-Project)  
 [Alfredo]()  
 [Alyson]()  
 [Antonio]()  
 [Ashli]()  
-[Biron]()  
 [Diego](https://github.com/Destrella3/Pursuit-Core-iOS-Unit3-Holiday-Assignment)  
+[Biron](https://github.com/BironSu/PokeDex)  
 [Elizabeth]()  
 [Genesis]()  
 [Ian]()  
@@ -69,7 +69,7 @@ Own and build your own iOS app.
 [Joshua]()  
 [Kathy]()  
 [Kevin]()  
-[Leandro]()  
+[Leandro](https://github.com/leandrowauters/UFC-Project)  
 [Manolova]()  
 [Matthew]()  
 [Nathalie]()  
