@@ -57,7 +57,7 @@ Own and build your own iOS app.
 [Diego]()  
 [Elizabeth](https://github.com/EliPeraza/GhibliMoviesInfo)  
 [Genesis]()  
-[Ian]()  
+[Ian](https://github.com/IanKBailey/Build-Your-own-Project)  
 [Ibraheem]()  
 [Jabeen]()  
 [Jane]()  
