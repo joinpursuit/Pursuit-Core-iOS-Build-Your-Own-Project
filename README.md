@@ -64,7 +64,7 @@ Own and build your own iOS app.
 [Jason](https://github.com/JasonD4/HolidayProject)  
 [Jeffrey]()  
 [Jevon]()  
-[Jian]()  
+[Jian](https://github.com/JianTing-Li/CatLover)  
 [Jose]()  
 [Joshua](https://github.com/JoshuaViera/RickAndMorty)  
 [Kathy]()  
