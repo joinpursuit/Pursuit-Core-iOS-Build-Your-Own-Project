@@ -75,7 +75,7 @@ Own and build your own iOS app.
 [Nathalie]()  
 [Olimpia](https://github.com/Olimpia1988/NasaPics)  
 [Oniel]()  
-[Pritesh]()  
+[Pritesh](https://github.com/PNadiadhara/DnDSpellTomb)  
 [Ramu]()  
 [Raymond]()  
 [Stephanie](https://github.com/SLRAM/Pursuit-Core-iOS-Build-Your-Own-Project)  
