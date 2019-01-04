@@ -48,8 +48,8 @@ Own and build your own iOS app.
 <details> 
   <summary>Fellow Submission List</summary> 
   
+[Alfredo](https://github.com/AlfredoB212/Unit3-Assignment-2.git)  
 [Aaron](https://github.com/AaronCab/API-Project)  
-[Alfredo]()  
 [Alyson](https://github.com/alysonabril/2018holidayProject)  
 [Antonio]()  
 [Ashli](https://github.com/Ashlirankin18/SocialApp.git)  
