@@ -55,7 +55,7 @@ Own and build your own iOS app.
 [Ashli]()  
 [Biron](https://github.com/BironSu/PokeDex)  
 [Diego]()  
-[Elizabeth]()  
+[Elizabeth](https://github.com/EliPeraza/GhibliMoviesInfo)  
 [Genesis]()  
 [Ian]()  
 [Ibraheem]()  
