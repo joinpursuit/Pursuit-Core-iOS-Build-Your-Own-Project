@@ -52,7 +52,7 @@ Own and build your own iOS app.
 [Alfredo]()  
 [Alyson](https://github.com/alysonabril/2018holidayProject)  
 [Antonio]()  
-[Ashli]()  
+[Ashli](https://github.com/Ashlirankin18/SocialApp.git)  
 [Biron](https://github.com/BironSu/PokeDex)  
 [Diego]()  
 [Elizabeth](https://github.com/EliPeraza/GhibliMoviesInfo)  
