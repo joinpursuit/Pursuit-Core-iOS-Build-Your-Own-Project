@@ -50,7 +50,7 @@ Own and build your own iOS app.
   
 [Aaron](https://github.com/AaronCab/API-Project)  
 [Alfredo]()  
-[Alyson]()  
+[Alyson](https://github.com/alysonabril/2018holidayProject)  
 [Antonio]()  
 [Ashli]()  
 [Biron](https://github.com/BironSu/PokeDex)  
