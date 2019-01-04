@@ -59,7 +59,7 @@ Own and build your own iOS app.
 [Genesis]()  
 [Ian](https://github.com/IanKBailey/Build-Your-own-Project)  
 [Ibraheem]()  
-[Jabeen]()  
+[Jabeen](https://github.com/JabeenCheema/CMProject)  
 [Jane]()  
 [Jason](https://github.com/JasonD4/HolidayProject)  
 [Jeffrey]()  
