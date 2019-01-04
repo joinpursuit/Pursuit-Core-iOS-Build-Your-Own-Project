@@ -66,7 +66,7 @@ Own and build your own iOS app.
 [Jevon]()  
 [Jian]()  
 [Jose]()  
-[Joshua]()  
+[Joshua](https://github.com/JoshuaViera/RickAndMorty)  
 [Kathy]()  
 [Kevin]()  
 [Leandro](https://github.com/leandrowauters/UFC-Project)  
