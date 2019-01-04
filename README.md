@@ -71,7 +71,7 @@ Own and build your own iOS app.
 [Kevin]()  
 [Leandro](https://github.com/leandrowauters/UFC-Project)  
 [Manolova]()  
-[Matthew]()  
+[Matthew](https://github.com/MattHuie/PokemonTCGApp)  
 [Nathalie]()  
 [Olimpia](https://github.com/Olimpia1988/NasaPics)  
 [Oniel]()  
