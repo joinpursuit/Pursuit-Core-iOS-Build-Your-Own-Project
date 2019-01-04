@@ -77,7 +77,7 @@ Own and build your own iOS app.
 [Oniel]()  
 [Pritesh](https://github.com/PNadiadhara/DnDSpellTomb)  
 [Ramu]()  
-[Raymond]()  
+[Raymond](https://github.com/Donkemezuo/LiveSoccerUpdateApp)  
 [Stephanie](https://github.com/SLRAM/Pursuit-Core-iOS-Build-Your-Own-Project)  
 [Tingxin]()  
 [Yaz]()  
