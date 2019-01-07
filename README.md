@@ -64,6 +64,7 @@ Own and build your own iOS app.
 [Jason](https://github.com/JasonD4/HolidayProject)  
 [Jeffrey]()  
 [Jevon]()  
+[Kevin](https://github.com/kwaring3/AppleAPI)  
 [Jose](https://github.com/josealarconchacon/Pursuit-December-Project)  
 [Jian](https://github.com/JianTing-Li/CatLover)  
 [Kathy](https://github.com/Marte14/YourEnviroment)  
