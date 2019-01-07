@@ -68,7 +68,7 @@ Own and build your own iOS app.
 [Jose]()  
 [Joshua]()  
 [Kathy]()  
-[Kevin]()  
+[Kevin](https://github.com/kwaring3/AppleAPI)  
 [Leandro]()  
 [Manolova]()  
 [Matthew]()  
