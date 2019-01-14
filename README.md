@@ -70,7 +70,7 @@ Own and build your own iOS app.
 [Kathy]()  
 [Kevin]()  
 [Leandro]()  
-[Manolova]()  
+[Manolova](https://github.com/manolovayusuf/APIProject)  
 [Matthew]()  
 [Nathalie]()  
 [Olimpia]()  
